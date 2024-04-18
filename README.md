@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on WSU
-- 🌱 I’m currently learning AI & Python & JAVA
+- 🌱 I’m currently learning Python & JAVA & Linux
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
