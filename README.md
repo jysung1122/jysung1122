@@ -1,8 +1,12 @@
 ### Hi 👋
+Currently, I am aspiring to become a full-stack or back-end developer, 
 
+so I am studying JSP and React and creating a bulletin board with each language. 
+
+I am working on a bulletin board project with JSP at school, and studying React at home.
 
 - 🔭 I’m currently working on WSU
-- 🌱 I’m currently learning Python & JAVA & Linux
+- 🌱 I’m currently learning JSP & REACT & AI
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
