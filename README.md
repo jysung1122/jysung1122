@@ -9,9 +9,9 @@ I am working on a bulletin board project with **JSP** at school, and studying **
 
 ---------------------------------------
  ## Self-study
+- [React](https://github.com/jysung1122/ReactStudy)
 - [VanillaJS](https://github.com/jysung1122/vanillaJSExample)
 - JSP..
-- React..
 
 
 ## AI PROJECT
