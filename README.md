@@ -2,17 +2,18 @@
 
 Currently, I am aspiring to become a **full-stack** or **back-end** developer, 
 so I am studying **JSP** and **React** and creating a bulletin board with each language. 
-I am working on a bulletin board project with **JSP** at school, and studying **React** at home.
+I am working on a bulletin board project with **JSP** at school, and studying **React** & **Spring** at home.
 
 - 🔭 I’m currently working on WSU
 - 🌱 I’m currently learning JSP & REACT & AI
 
 ---------------------------------------
  ## Self-study
-- [React](https://github.com/jysung1122/ReactStudy)
-- [React + FireBase](https://github.com/jysung1122/react_fireDB)
-- [VanillaJS](https://github.com/jysung1122/vanillaJSExample)
-- [JSP로 만든 게시판](https://github.com/jysung1122/jsp-crudBBS)
+- React + Spring Boot + MySQL 프로젝트(진행예정)..
+- [React(완료)](https://github.com/jysung1122/ReactStudy)
+- [React + FireBase(진행중)](https://github.com/jysung1122/react_fireDB)
+- [VanillaJS(완료)](https://github.com/jysung1122/vanillaJSExample)
+- [JSP로 만든 게시판(완료)](https://github.com/jysung1122/jsp-crudBBS)
 
 
 ## AI PROJECT
