@@ -12,7 +12,7 @@ I am working on a bulletin board project with **JSP** at school, and studying **
 - [React](https://github.com/jysung1122/ReactStudy)
 - [React + FireBase](https://github.com/jysung1122/react_fireDB)
 - [VanillaJS](https://github.com/jysung1122/vanillaJSExample)
-- JSP..
+- [JSP로 만든 게시판](https://github.com/jysung1122/jsp-crudBBS)
 
 
 ## AI PROJECT
