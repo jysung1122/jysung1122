@@ -17,6 +17,7 @@ I am working on a bulletin board project with **JSP** at school, and studying **
 
 
 ## AI PROJECT
+- [파이썬 개발환경 구축](https://github.com/jysung1122/PythonEnv)
 - [YOLO V5를 이용하여 NATIVE APP 개발](https://github.com/jysung1122/yologui)
 - [객체 탐지 YOLO의 모든 것](https://github.com/jysung1122/aiModel/blob/main/_%EA%B0%9D%EC%B2%B4_%ED%83%90%EC%A7%80_(Object_Detection)_YOLO%EC%9D%98_%EB%AA%A8%EB%93%A0%EA%B2%83_2024.ipynb)
 - [Parking Lot Detact Model](https://github.com/jysung1122/aiModel/blob/main/ParkingLot%ED%83%90%EC%A7%80.ipynb)
