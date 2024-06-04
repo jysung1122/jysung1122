@@ -32,7 +32,9 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 
 ## 2024 채용연계형 기업맴버십 특별과정 - 임성국 교수님
 - [파이썬, 자바, 머신러닝 등등 다양한 파일](https://eventia.github.io/wsuit/)
-
+- [파이썬 수학](https://github.com/eventia/wsuit/tree/main/smart1room)
+- [머신러닝 기초](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
+- [파이썬 기초](https://www.youtube.com/watch?v=oUtvFOod3ug&list=PLsS-TVNjbU7cdhwa-s-X7CTOIiP761yVP)
 
 
 
