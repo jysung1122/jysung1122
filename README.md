@@ -18,7 +18,7 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 - [JSP로 만든 게시판(완료)](https://github.com/jysung1122/jsp-crudBBS)
 
 
-## AI PROJECT
+## 2024 채용연계형 기업맴버십 특별과정 - AI PROJECT
 - [파이썬 개발환경 구축](https://github.com/jysung1122/PythonEnv)
 - [YOLO V5를 이용하여 NATIVE APP 개발](https://github.com/jysung1122/yologui)
 - [객체 탐지 YOLO의 모든 것](https://github.com/jysung1122/aiModel/blob/main/_%EA%B0%9D%EC%B2%B4_%ED%83%90%EC%A7%80_(Object_Detection)_YOLO%EC%9D%98_%EB%AA%A8%EB%93%A0%EA%B2%83_2024.ipynb)
@@ -30,6 +30,8 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 - [BCCD Detact Model](https://github.com/jysung1122/BCCD-Detact)
 - [A model using Keras](https://github.com/jysung1122/TensorFlow240415)
 
+## 2024 채용연계형 기업맴버십 특별과정 - 임성국 교수님
+- [파이썬, 자바, 머신러닝 등등 다양한 파일](https://eventia.github.io/wsuit/)
 
 
 
