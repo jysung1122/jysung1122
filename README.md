@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Sung%20Jae%20Yong&fontSize=90)
 
-Currently, I am aspiring to become a **full-stack** or **back-end** developer, 
-so I am studying **JSP** and **React** and creating a bulletin board with each language. 
-I am working on a bulletin board project with **JSP** at school, and studying **React** & **Spring** at home.
+I am aspiring to become a **full-stack** or **back-end** developer, 
+so I am studied **JSP** and **React** and created a bulletin board with each language. 
 
 I am consistently preparing for my future goals. Recognizing the importance of studying **algorithms** to prepare for coding tests, I have started solving 100 basic problems on Baekjoon. Aware of the importance of time management, I dedicate one hour each day to algorithm studies. Through these efforts, I am continuously **growing** and **striving** to become a better developer.
 
