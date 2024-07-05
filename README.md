@@ -6,8 +6,8 @@ I am working on a bulletin board project with **JSP** at school, and studying **
 
 I am consistently preparing for my future goals. Recognizing the importance of studying **algorithms** to prepare for coding tests, I have started solving 100 basic problems on Baekjoon. Aware of the importance of time management, I dedicate one hour each day to algorithm studies. Through these efforts, I am continuously **growing** and **striving** to become a better developer.
 
-- 🔭 I’m currently working on WSU
-- 🌱 I learned JSP & RECT & AI and am currently reviewing C/C++
+- 🔭 I am currently attending Woosong University and working as an intern at Huvis company in Daejeon. I'm studying Python in my spare time as an intern
+- 🌱 I learned JSP & REACT & AI and am reviewied C/C++
 
 ---------------------------------------
  ## Self-study
