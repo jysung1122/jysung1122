@@ -6,7 +6,7 @@ so I am studied **JSP** and **React** and created a bulletin board with each lan
 I am consistently preparing for my future goals. Recognizing the importance of studying **algorithms** to prepare for coding tests, I have started solving 100 basic problems on Baekjoon. Aware of the importance of time management, I dedicate one hour each day to algorithm studies. Through these efforts, I am continuously **growing** and **striving** to become a better developer.
 
 - 🔭 I am currently attending Woosong University and working as an **intern** at Hubis company in Daejeon. I'm studying Python in my spare time as an intern
-- 🌱 In the first half of 2024, I learned JSP & RET & AI and reviewed C/C++.
+- 🌱 In the first half of 2024, I learned JSP & REACT & AI and reviewed C/C++.
 
 ---------------------------------------
  ## Self-study
