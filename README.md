@@ -10,7 +10,6 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 
 ---------------------------------------
  ## Self-study
-- [AWS 학습(진행중..)](https://github.com/jysung1122/AWS_Study)
 - [Python Mini Project(진행중..)](https://github.com/jysung1122/Python_mini_project)
 - [React + Spring Boot + MySQL 프로젝트(진행중..)](https://github.com/jysung1122/blogProject)
 - [React(완료)](https://github.com/jysung1122/ReactStudy)
