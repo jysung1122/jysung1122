@@ -10,7 +10,7 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 
 ---------------------------------------
  ## Self-study
-- [Image Segmentation](https://github.com/jysung1122/Image_Segmentation/blob/main/_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98(Image_Segmentation)_%ED%95%9C%EB%B2%88%EC%97%90_%EB%81%9D%EB%82%B4%EA%B8%B0.ipynb)
+- [Image Segmentation](https://github.com/jysung1122/Image_Segmentation)
 - [Python Mini Project(진행중..)](https://github.com/jysung1122/Python_mini_project)
 - [React + Spring Boot + MySQL 프로젝트(진행중..)](https://github.com/jysung1122/blogProject)
 - [React(완료)](https://github.com/jysung1122/ReactStudy)
