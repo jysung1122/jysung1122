@@ -10,7 +10,7 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 
 ---------------------------------------
  ## Self-study
- - [Notion으로 장고 리뷰(진행중..)](https://www.notion.so/Django-84e95d4bfad8489d9a5d279667d826bf?pvs=4)
+ - [Notion으로 장고 리뷰(진행중..)]([https://www.notion.so/Django-84e95d4bfad8489d9a5d279667d826bf?pvs=4](https://capable-slime-584.notion.site/Django-84e95d4bfad8489d9a5d279667d826bf))
 - [Image Segmentation](https://github.com/jysung1122/Image_Segmentation)
 - [Python Mini Project(진행중..)](https://github.com/jysung1122/Python_mini_project)
 - [React + Spring Boot + MySQL 프로젝트(진행중..)](https://github.com/jysung1122/blogProject)
