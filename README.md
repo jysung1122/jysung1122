@@ -10,6 +10,7 @@ I am consistently preparing for my future goals. Recognizing the importance of s
 
 ---------------------------------------
  ## Self-study
+- [영상처리 스터디](https://capable-slime-584.notion.site/118f79eb84138048b45dd465b28b0323)
 - [C++ 코드 컨벤션](https://github.com/jysung1122/CppCodeConvention)
 - [Notion으로 장고 리뷰(진행중..)](https://capable-slime-584.notion.site/Django-84e95d4bfad8489d9a5d279667d826bf)
 - [Image Segmentation](https://github.com/jysung1122/Image_Segmentation)
