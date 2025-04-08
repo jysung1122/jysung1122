@@ -1,22 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Sung%20Jae%20Yong&fontSize=90)
 
-I am aspiring to become a **full-stack** or **back-end** developer, 
-so I am studied **JSP** and **React** and created a bulletin board with each language. 
+우송대학교를 졸업한 저는, 4학년 2학기에 레이저 용접 전문 기업 Hubis에서 인턴으로 커리어를 시작했습니다. 인턴 기간 동안 저는 회사의 실제 현장 문제 해결을 위한 캡스톤 프로젝트를 성공적으로 이끌었습니다. 이 프로젝트는 딥러닝 기반의 객체 탐지(Object Detection)와 룰베이스 기반 영상처리를 결합한 하이브리드 알고리즘으로, 버스바(busbar) 용접 전 검사 과정에서 정확한 용접 위치를 자동으로 검출할 수 있게 설계되었습니다.
 
-I am consistently preparing for my future goals. Recognizing the importance of studying **algorithms** to prepare for coding tests, I have started solving 100 basic problems on Baekjoon. Aware of the importance of time management, I dedicate one hour each day to algorithm studies. Through these efforts, I am continuously **growing** and **striving** to become a better developer.
+또한, 회사가 처음으로 시도한 MLOps 프로젝트에 초기 맴버로 투입되어 이미지 업로드부터 전처리, 모델 학습 및 배포, 결과 테스트까지 가능한 엔드투엔드(End-to-End) 웹 플랫폼을 구축했습니다. 이 플랫폼은 특히 헤어핀(hairpin) 용접 후 검사 과정에서 딥러닝 Classification 모델을 적용하여 OK/NG 판정을 자동화하는 혁신적인 성과를 거두었습니다.
 
-- 🔭 I am currently attending Woosong University and working as an **intern** at Hubis company in Daejeon. I'm studying Python in my spare time as an intern
-- 🌱 In the first half of 2024, I learned JSP & REACT & AI and reviewed C/C++.
+이러한 성과를 인정받아 2025년 1월, 정규직으로 전환되어 현재는 인턴 기간 중 구축한 MLOps 플랫폼을 더욱 발전시키는 업무를 맡고 있습니다. 특히 용접 과정에서 발생하는 플라즈마 데이터를 수집하고 분석하여, 보다 정밀하고 신뢰성 높은 데이터 기반 모델링 및 예측 성능 향상을 주도하고 있습니다.
 
 ---------------------------------------
  ## Self-study
+- [퇴근 후 쿠버네티스](https://github.com/jysung1122/k8s_ddarahaki)
 - [데이터 분석 & 이미지 처리](https://github.com/jysung1122/data_analysis_and_image_processing)
-- [Notion으로 영상처리 스터디(진행중..)](https://capable-slime-584.notion.site/118f79eb84138048b45dd465b28b0323)
 - [C++ 코드 컨벤션](https://github.com/jysung1122/CppCodeConvention)
 - [Notion으로 장고 리뷰](https://capable-slime-584.notion.site/Django-84e95d4bfad8489d9a5d279667d826bf)
 - [Image Segmentation](https://github.com/jysung1122/Image_Segmentation)
-- [Python Mini Project(진행중..)](https://github.com/jysung1122/Python_mini_project)
-- [React + Spring Boot + MySQL 프로젝트(진행중..)](https://github.com/jysung1122/blogProject)
+- [Python Mini Project](https://github.com/jysung1122/Python_mini_project)
 - [React(완료)](https://github.com/jysung1122/ReactStudy)
 - [React + FireBase(완료)](https://github.com/jysung1122/react_fireDB)
 - [VanillaJS(완료)](https://github.com/jysung1122/vanillaJSExample)
