@@ -23,6 +23,7 @@ PostgreSQL, Docker, WSL2, Gitea 같은 인프라 기술까지 다뤄내는 풀�
 -->
 ---------------------------------------
  ## Self-study
+- [O'REILLY 핸즈온머신러닝 3판 - Notion](https://capable-slime-584.notion.site/2aff79eb84138052a2b4dcbdf0b11354?pvs=143)
 - [퇴근 후 쿠버네티스](https://github.com/jysung1122/k8s_ddarahaki)
 - [데이터 분석 & 이미지 처리](https://github.com/jysung1122/data_analysis_and_image_processing)
 - [C++ 코드 컨벤션](https://github.com/jysung1122/CppCodeConvention)
